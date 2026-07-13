@@ -1,0 +1,40 @@
+product_id,category,sub_category,typical_shelf_life,source_note
+1,Fruits And Vegetables,Fresh Fruits,Perishable - 3-7 days,manually_authored
+2,Fruits And Vegetables,Fresh Vegetables,Perishable - 3-7 days,manually_authored
+3,Fruits And Vegetables,Herbs And Seasonings,Perishable - 2-5 days,manually_authored
+4,Dairy And Eggs,Milk,Perishable - 1-3 days,manually_authored
+5,Dairy And Eggs,Curd And Yogurt,Perishable - 5-7 days,manually_authored
+6,Dairy And Eggs,Paneer And Cheese,Perishable - 5-10 days,manually_authored
+7,Dairy And Eggs,Eggs,Perishable - 14-21 days,manually_authored
+8,Dairy And Eggs,Butter And Ghee,Semi-perishable - 30-90 days,manually_authored
+9,Atta Rice And Dal,Atta And Flour,Non-perishable - 90-180 days,manually_authored
+10,Atta Rice And Dal,Rice,Non-perishable - 180-365 days,manually_authored
+11,Atta Rice And Dal,Dal And Pulses,Non-perishable - 180-365 days,manually_authored
+12,Masala And Spices,Whole Spices,Non-perishable - 180-365 days,manually_authored
+13,Masala And Spices,Ground Spices And Masala Mixes,Non-perishable - 90-180 days,manually_authored
+14,Oils And Ghee,Cooking Oil,Non-perishable - 180-365 days,manually_authored
+15,Bakery,Bread,Perishable - 2-4 days,manually_authored
+16,Bakery,Buns And Pav,Perishable - 2-4 days,manually_authored
+17,Bakery,Cakes And Pastries,Perishable - 1-3 days,manually_authored
+18,Snacks And Munchies,Chips And Namkeen,Non-perishable - 60-120 days,manually_authored
+19,Snacks And Munchies,Biscuits And Cookies,Non-perishable - 90-180 days,manually_authored
+20,Snacks And Munchies,Chocolates And Candy,Non-perishable - 90-180 days,manually_authored
+21,Beverages,Tea And Coffee,Non-perishable - 180-365 days,manually_authored
+22,Beverages,Soft Drinks And Juices,Non-perishable - 90-180 days,manually_authored
+23,Beverages,Water,Non-perishable - 365 days,manually_authored
+24,Frozen Food,Frozen Vegetables,Frozen - 90-180 days,manually_authored
+25,Frozen Food,Frozen Snacks,Frozen - 90-180 days,manually_authored
+26,Frozen Food,Ice Cream,Frozen - 90-180 days,manually_authored
+27,Personal Care,Bath And Body,Non-perishable - 365 days,manually_authored
+28,Personal Care,Hair Care,Non-perishable - 365 days,manually_authored
+29,Personal Care,Oral Care,Non-perishable - 365 days,manually_authored
+30,Personal Care,Skin Care,Non-perishable - 180-365 days,manually_authored
+31,Home Care,Cleaning Supplies,Non-perishable - 365 days,manually_authored
+32,Home Care,Laundry,Non-perishable - 365 days,manually_authored
+33,Home Care,Pest Control,Non-perishable - 365 days,manually_authored
+34,Baby Care,Diapers And Wipes,Non-perishable - 365 days,manually_authored
+35,Baby Care,Baby Food,Non-perishable - 180-365 days,manually_authored
+36,Pet Care,Pet Food,Non-perishable - 180-365 days,manually_authored
+37,Electronics And Accessories,Mobile Accessories,Non-perishable - 365 days,manually_authored
+38,Electronics And Accessories,Batteries,Non-perishable - 365 days,manually_authored
+39,Stationery,Office And School Supplies,Non-perishable - 365 days,manually_authored

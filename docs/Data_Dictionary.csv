@@ -1,0 +1,17 @@
+Measure,Description
+District Count,Total distinct districts
+Average DSS,Average District Suitability Score
+Highest DSS,Maximum DSS
+Very High Potential Districts,Count of Very High Potential districts
+Expansion Ready Districts,Eligible expansion districts
+Addressable Population,Total target population
+Expected Customer Reach,Estimated reachable consumers
+Average Recommendation Score,Average recommendation score
+Priority State,State with highest recommendation score
+Expansion Coverage %,Expansion-ready districts ÷ Total districts
+Recommended Districts,Final shortlisted districts
+,
+,
+,
+,
+,

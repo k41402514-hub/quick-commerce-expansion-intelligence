@@ -1,0 +1,32 @@
+demand_id,date_id,weather_id,festival_name,festival_type,demand_intensity,festival_flag
+1,,,New Year's Day,National Holiday,Medium,True
+2,,,Makar Sankranti / Pongal / Magha Bihu,Harvest Festival,High,True
+3,,,Republic Day,National Holiday,Low,True
+4,,,Maha Shivratri,Hindu Religious,Medium,True
+5,,,Holika Dahan,Hindu Religious,Medium,True
+6,,,Holi,Hindu Religious,High,True
+7,,,Ugadi / Gudi Padwa,Regional New Year,Medium,True
+8,,,Jamat-ul-Vida,Islamic Religious,Low,True
+9,,,Eid al-Fitr (Ramzan Id),Islamic Religious,High,True
+10,,,Ram Navami,Hindu Religious,Medium,True
+11,,,Mahavir Jayanti,Jain Religious,Low,True
+12,,,Easter Sunday,Christian Religious,Medium,True
+13,,,Vaisakhi / Tamil New Year / Ambedkar Jayanti,Regional New Year and National Observance,Medium,True
+14,,,Rabindranath Tagore Jayanti,Regional Observance,Low,True
+15,,,Rath Yatra,Hindu Religious,Medium,True
+16,,,Independence Day / Parsi New Year (Navroz),National Holiday,Medium,True
+17,,,Onam,Harvest Festival,High,True
+18,,,Raksha Bandhan,Hindu Religious,High,True
+19,,,Krishna Janmashtami,Hindu Religious,Medium,True
+20,,,Ganesh Chaturthi,Hindu Religious,High,True
+21,,,Gandhi Jayanti,National Holiday,Low,True
+22,,,Navratri Begins,Hindu Religious,High,True
+23,,,Maha Saptami,Hindu Religious,High,True
+24,,,Maha Ashtami,Hindu Religious,High,True
+25,,,Dussehra / Vijayadashami,Hindu Religious,High,True
+26,,,Karva Chauth,Hindu Religious,Medium,True
+27,,,Diwali (Deepavali),Hindu Religious,High,True
+28,,,Govardhan Puja,Hindu Religious,Medium,True
+29,,,Bhai Dooj,Hindu Religious,Medium,True
+30,,,Chhath Puja,Hindu Religious,High,True
+31,,,Christmas Day,National Holiday,High,True

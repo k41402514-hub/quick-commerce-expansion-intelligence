@@ -1,0 +1,32 @@
+date,festival_name,region,festival_type,demand_intensity
+2026-01-01,New Year's Day,National,National Holiday,Medium
+2026-01-14,Makar Sankranti / Pongal / Magha Bihu,National (strong in Tamil Nadu Assam North India),Harvest Festival,High
+2026-01-26,Republic Day,National,National Holiday,Low
+2026-02-15,Maha Shivratri,National,Hindu Religious,Medium
+2026-03-03,Holika Dahan,National (North India strong),Hindu Religious,Medium
+2026-03-04,Holi,National (North India strongest),Hindu Religious,High
+2026-03-19,Ugadi / Gudi Padwa,South and West India,Regional New Year,Medium
+2026-03-20,Jamat-ul-Vida,National (Muslim community),Islamic Religious,Low
+2026-03-21,Eid al-Fitr (Ramzan Id),National (Muslim community),Islamic Religious,High
+2026-03-26,Ram Navami,National,Hindu Religious,Medium
+2026-03-31,Mahavir Jayanti,National (Jain community),Jain Religious,Low
+2026-04-05,Easter Sunday,National (Christian community),Christian Religious,Medium
+2026-04-14,Vaisakhi / Tamil New Year / Ambedkar Jayanti,Punjab and Tamil Nadu and National,Regional New Year and National Observance,Medium
+2026-05-09,Rabindranath Tagore Jayanti,West Bengal,Regional Observance,Low
+2026-07-16,Rath Yatra,Odisha strong also National,Hindu Religious,Medium
+2026-08-15,Independence Day / Parsi New Year (Navroz),National,National Holiday,Medium
+2026-08-26,Onam,Kerala,Harvest Festival,High
+2026-08-28,Raksha Bandhan,National,Hindu Religious,High
+2026-09-04,Krishna Janmashtami,National,Hindu Religious,Medium
+2026-09-14,Ganesh Chaturthi,National (Maharashtra strongest),Hindu Religious,High
+2026-10-02,Gandhi Jayanti,National,National Holiday,Low
+2026-10-12,Navratri Begins,National (Gujarat West Bengal North India strong),Hindu Religious,High
+2026-10-18,Maha Saptami,West Bengal Durga Puja,Hindu Religious,High
+2026-10-19,Maha Ashtami,West Bengal Durga Puja,Hindu Religious,High
+2026-10-20,Dussehra / Vijayadashami,National,Hindu Religious,High
+2026-10-29,Karva Chauth,North India,Hindu Religious,Medium
+2026-11-08,Diwali (Deepavali),National,Hindu Religious,High
+2026-11-09,Govardhan Puja,National (North India),Hindu Religious,Medium
+2026-11-11,Bhai Dooj,National,Hindu Religious,Medium
+2026-11-15,Chhath Puja,Bihar Jharkhand Eastern UP,Hindu Religious,High
+2026-12-25,Christmas Day,National,National Holiday,High

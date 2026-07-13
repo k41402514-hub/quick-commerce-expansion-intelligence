@@ -1,0 +1,10 @@
+Asset,Layer,Description,Source,Format,Rows,Created In,Used By,Refresh,Status
+census2011.csv,Raw,District demographic dataset,Census of India,CSV,640,01_data_collection,Market Expansion Dashboard,Static,Active
+pincode_directory.csv,Raw,Indian Pincode Master,Government of India,CSV,"19,000+",01_data_collection,Executive Dashboard,Static,Active
+festival_calendar.csv,Raw,Festival demand calendar,Public Dataset,CSV,25,01_data_collection,Recommendation Dashboard,Annual,Active
+product_taxonomy.csv,Raw,Product Category Mapping,Open Food Facts,CSV,500+,01_data_collection,Market Expansion Dashboard,Static,Active
+dim_location.csv,Integrated,District master table,Project Generated,CSV,640,03_data_integration,All Dashboards,Manual,Active
+dim_product.csv,Integrated,Product Dimension,Project Generated,CSV,500,03_data_integration,Recommendation Dashboard,Manual,Active
+fact_market_potential.csv,Fact,District Opportunity Scores,Project Generated,CSV,640,03_data_integration,Executive Dashboard,Manual,Active
+fact_demand_analysis.csv,Fact,Demand Analysis Dataset,Project Generated,CSV,640,05_eda,Recommendation Dashboard,Manual,Active
+quick_commerce.db,Database,SQLite Analytical Database,SQLite,DB,Multiple Tables,04_sql_database,Power BI,Manual,Active
